@@ -125,7 +125,7 @@ The model achieves the following metrics after training:
 
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -150,8 +150,9 @@ SOFTWARE.
 - 🔥 BERT-small model by prajjwal1
 - 📚 loresiensis for the English-Spanish corpus
 
-## 📫 Contact
-[Add your contact information here]
+
+
+
 
 ---
 <p align="center">
